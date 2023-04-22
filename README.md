@@ -1,30 +1,13 @@
-AI Summarizer
-AI Summarizer is a web app that uses artificial intelligence to summarize long articles and documents into a shorter, more concise format.
+**AI Summarizer**
+An application that uses artificial intelligence to generate summaries of long articles.
 
-Getting Started
-Prerequisites
-Node.js
-RapidAPI API key
-Installing
-Clone the repository
-bash
-Copy code
-git clone https://github.com/{your-username}/ai-summarizer.git
-cd ai-summarizer
-Install the dependencies
-Copy code
-npm install
-Create a .env file in the root directory of the project with the following content:
-makefile
-Copy code
-REACT_APP_API_KEY=YOUR_API_KEY_HERE
-You will need to replace YOUR_API_KEY_HERE with your own RapidAPI API key.
+**Getting Started**
+Follow these simple steps to get started with the AI Summarizer:
 
-Usage
-To start the development server, run the following command:
+Open your terminal and navigate to the root directory of your project.
 
-arduino
-Copy code
-npm run dev
-The app should now be accessible at http://localhost:3000.
+Run the command npm install to install all the necessary dependencies. This might take a few minutes depending on your internet speed.
 
+Once the installation is complete, run the command npm run dev to start the application.
+
+Note: You will need to use your own API key for the Summarization API. You can obtain an API key by creating an account on the Summarization API website.
