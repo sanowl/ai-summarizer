@@ -1,4 +1,4 @@
-# Getting Started with AI Summarizer.
+#  AI Summarizer.
 
 Creating a AI Summarizer with these simple steps:
 
@@ -8,4 +8,4 @@ Creating a AI Summarizer with these simple steps:
 
  **Once the installation is complete, run the command `npm run dev` to start the application.**
 
-Note: You will need to use your own API key for the Summarization API. You can obtain an API key by creating an account on the Summarization API website.
+Note: You will need to use your own API key for the Summarization API. You can obtain an API key by creating an account on the Rapid API website.
